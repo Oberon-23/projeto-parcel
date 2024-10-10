@@ -3,7 +3,12 @@
 .hero {
     padding-top: 64px;
     padding-bottom: 100px;
-    background-image: url(../images/banner-aniversario.jpg);
+    background-image: linear-gradient(
+        to bottom, 
+        rgba(255, 255, 255, 0) 70%, // Gradiente transparente no topo
+        variables.$blue2 100%        // Cor de transição para combinar com a próxima seção
+    ), 
+    url(../images/banner-aniversario.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -20,13 +25,13 @@
         height: 100%;
         background-color: variables.$secondaryTextColor;
         content: '';
-        opacity: .7;
+        opacity: .3;
     }
 
     &__text {
         margin-top: 64px;
         margin-bottom: 64px;
-        font-size: 40px;
+        font-size: 30px;
         line-height: 56px;
         font-weight: 800;
         text-align: center;
