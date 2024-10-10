@@ -1,5 +1,5 @@
 .hero {
-  background-color: #f0f8ff;
+  background-image: url("../banner-aniversario.0fe11f33.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 64px;
@@ -32,7 +32,7 @@
 }
 
 .hero__logo {
-  height: 40vh;
+  height: 30vh;
   margin: 0 auto;
   display: block;
 }

@@ -3,7 +3,7 @@
 .hero {
     padding-top: 64px;
     padding-bottom: 100px;
-    background-color: aliceblue;
+    background-image: url(../images/banner-aniversario.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -34,7 +34,7 @@
 
     &__logo {
         margin: 0 auto;
-        height: 40vh;
+        height: 30vh;
         display: block;
     }
 
