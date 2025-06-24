@@ -17,5 +17,28 @@ git clone https://github.com/Oberon-23/projeto-parcel.git
 cd projeto-parcel
 npm install
 npm start
+```
+Abra no navegador o endereço indicado (normalmente http://localhost:1234) para ver o convite funcionando.
 
 ## ⚙️ Build para produção
+```bash
+npm run build
+```
+Os arquivos otimizados ficam na pasta dist.
+
+## 📂 Estrutura do Projeto
+
+projeto-parcel/
+│-- src/
+│-- package.json
+│-- .gitignore
+│-- README.md
+
+## ✨ Funcionalidades
+✅ Convite visualmente estilizado com tema Harry Potter
+✅ Responsividade para diferentes dispositivos
+✅ Animações e interatividade básicas
+
+## 👨‍💻 Autor
+Projeto desenvolvido por Oberon-23
+GitHub
