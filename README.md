@@ -2,11 +2,11 @@
 
 Este é um projeto front-end de um convite de aniversário inspirado no universo de Harry Potter, feito com HTML, CSS e JavaScript, e configurado para ser construído e servido localmente usando o bundler Parcel.
 
-## Sobre o Projeto
+## 🚀 Sobre o Projeto
 
 O convite temático é uma página web estilizada que traz elementos visuais e interativos inspirados no mundo mágico de Harry Potter, ideal para festas de aniversário para fãs da saga. O projeto utiliza Parcel como ferramenta de bundling para facilitar o desenvolvimento e produção.
 
-## Tecnologias Utilizadas
+## 📌 Tecnologias Utilizadas
 
 - HTML5
 - CSS3 (com pré-processador Sass)
@@ -20,7 +20,7 @@ O convite temático é uma página web estilizada que traz elementos visuais e i
 - Node.js instalado (recomendo versão 14 ou superior)
 - npm ou yarn instalado (vem com o Node.js)
 
-### Passos
+### ⚙️ Passos
 
 1. Clone o repositório  
    ```bash
