@@ -27,12 +27,13 @@ npm run build
 Os arquivos otimizados ficam na pasta dist.
 
 ## 📂 Estrutura do Projeto
-
+```bash
 projeto-parcel/
 │-- src/
 │-- package.json
 │-- .gitignore
 │-- README.md
+```
 
 ## ✨ Funcionalidades
 ✅ Convite visualmente estilizado com tema Harry Potter
